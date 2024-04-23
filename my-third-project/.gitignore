@@ -1,0 +1,94 @@
+# Node.js
+/node_modules/
+npm-debug.log
+yarn-error.log
+yarn-debug.log
+package-lock.json
+yarn.lock
+
+# Environment variables
+.env
+.env.local
+.env.development.local
+.env.test.local
+.env.production.local
+
+# Editor directories and files
+.idea
+.vscode
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+*.swp
+
+# Logs
+logs
+*.log
+*.csv
+*.dat
+*.out
+*.pid
+*.seed
+
+# Dependency directories
+/node_modules/
+/jspm_packages/
+
+# Optional npm cache directory
+.npm
+
+# Optional eslint cache
+.eslintcache
+
+# MacOS files
+.DS_Store
+
+# Windows files
+Thumbs.db
+
+# Build files
+/dist/
+/build/
+
+# Temporary files
+/tmp
+/temp
+
+# Production specific
+/public/
+
+# Private keys
+*.pem
+
+# React specific
+/public/
+/build/
+.DS_Store
+*.sublime-workspace
+*.sublime-project
+
+# Compiled Source
+/**/*.com
+/**/*.class
+/**/*.dll
+/**/*.exe
+/**/*.o
+/**/*.so
+
+# Package Files
+/package
+/package-lock.json
+/npm-debug.log*
+
+# PostgreSQL database dump files
+*.sql
+*.sql.gz
+*.dump
+
+# Other specific
+*.cache
+*.seed
+*.pid
+*.log
+*.out
